@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/cordelia273/Downloads/-GameGraphics-_Homework3-master/OpenGLES_HW3/app/.cxx/cmake/debug/x86'
+ninja: no work to do.
