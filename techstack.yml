@@ -2,7 +2,7 @@ repo_name: ThisIsSimple/GameGraphicProgrammingHW3
 report_id: 5e56f0d259645cf6c6631dee97fceb7b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:29:58+00:00'
+timestamp: '2024-02-29T18:57:15+00:00'
 requested_by: ThisIsSimple
 provider: github
 branch: master
@@ -65,7 +65,7 @@ tools:
   last_updated_by: JuniorEinstein
   last_updated_on: 2020-06-25 11:30:09.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
